@@ -28,3 +28,7 @@ create tweets, edit and delete them, and like tweets.
 ## 🖼 Screenshots
 <br/>
 
+![x-clone](https://github.com/user-attachments/assets/7489e968-97fa-4f99-a47b-3aee2934e0c4)
+
+
+
