@@ -1,8 +1,28 @@
-# React + Vite
+# X-Clone 🚀
+<br/>
+X-Clone is a social media application where users can log in with Google or email, 
+create tweets, edit and delete them, and like tweets.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🛠 Technologies Used
+<br/>
+- **React** - Component-based UI development  
+- **Firebase** - Authentication and data management  
+- **TailwindCSS** - Modern and stylish design  
+- **Moment.js** - Formatting timestamps  
+- **React-Icons** - UI icons  
+- **React-Router-DOM** - Page navigation  
+- **React-Toastify** - Toast notifications  
+- **UUID** - Generating unique tweet IDs  
 
-Currently, two official plugins are available:
+## ✨ Features
+<br/>
+✔ Login with Google  
+✔ Login with email  
+✔ Create tweets  
+✔ Edit tweets  
+✔ Delete tweets  
+✔ Like tweets  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🖼 Screenshots
+<br/>
+
