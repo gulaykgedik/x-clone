@@ -5,6 +5,7 @@ create tweets, edit and delete them, and like tweets.
 
 ## 🛠 Technologies Used
 <br/>
+
 - **React** - Component-based UI development  
 - **Firebase** - Authentication and data management  
 - **TailwindCSS** - Modern and stylish design  
@@ -16,6 +17,7 @@ create tweets, edit and delete them, and like tweets.
 
 ## ✨ Features
 <br/>
+
 ✔ Login with Google  
 ✔ Login with email  
 ✔ Create tweets  
